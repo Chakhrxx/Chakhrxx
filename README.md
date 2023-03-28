@@ -5,7 +5,7 @@ Highly motivated Full Stack Developer with over 5 years of experience in designi
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [Express-Mongo-Typescript](http://43.206.103.109:3001/api-docs/)
-* ✉️  You can contact me at [chakhree.h@gamil.com](mailto:chakhree.h@gamil.com)
+* ✉️  You can contact me at [chakhree.h@gamil.com](mailto:chakhree.h@gmail.com)
 * 🧠  I'm learning Typescript(NextJS, NestJS) and Amazon Web Services
 
 ### Skills
