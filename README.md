@@ -40,7 +40,7 @@ Highly motivated Full Stack Developer with over 5 years of experience in designi
 <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://cdn.svgporn.com/logos/swagger.svg" width="36" height="36" alt="swagger" /></a>
 <a href="https://strapi.io/" target="_blank" rel="noreferrer"><img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=3840,quality=80,fit=scale-down" width="36" height="36" alt="strapi.io" /></a>
-<a href="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" target="_blank" rel="noreferrer"><img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=3840,quality=80,fit=scale-down" width="36" height="36" alt="prisma" /></a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="36" height="36" alt="prisma.io" /></a>
 </p>
 
 
