@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Highly motivated Full Stack Developer with over 5 years of experience in designing and developing scalable web applications. Proficient in several programming languages, including Java, Python, JavaScript(Node, Express, React, Next, Nest) and Typescript. Strong expertise in database design and management using MSSQL, MySQL, PostgresSQL and MongoDB. Experienced in deploying and managing applications on AWS services such as EC2 and EKS. Familiar with Jenkins Pipeline for building and automating continuous integration and continuous delivery (CI/CD) pipelines.
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [Express-Mongo-Typescript](http://43.206.103.109:3001/api-docs/)
 * ✉️  You can contact me at [chakhree.h@gamil.com](mailto:chakhree.h@gmail.com)
-* 🧠  I'm learning Typescript(NextJS, NestJS) and Amazon Web Services
+* 🧠  I'm learning Typescript(NextJS, NestJS), Flutter and Amazon Web Services
 
 ### Skills
 
@@ -36,6 +35,7 @@ Highly motivated Full Stack Developer with over 5 years of experience in designi
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="flutter" /></a>
 </p>
 
 
