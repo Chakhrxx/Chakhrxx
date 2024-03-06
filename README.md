@@ -5,7 +5,7 @@ Highly motivated Full Stack Developer with over 5 years of experience in designi
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [chakhree.h@gamil.com](mailto:chakhree.h@gmail.com)
-* 🧠  I'm learning Typescript(NextJS, NestJS), Flutter and Amazon Web Services
+* 🧠  I'm learning Typescript(NextJS, NestJS), Golang ,Flutter and Amazon Web Services
 
 ### Skills
 
